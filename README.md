@@ -1,4 +1,4 @@
-# Brain-MRI-Segmentation(2D Segmentation)
+# Brain-MRI-Segmentation(2D Segmentation) Using Pytorch
 
 This project aims to investigate and compare the performance of various deep learning architectures for brain image segmentation on 2D MRIs. The segmentation task involves identifying and labeling different regions of the brain which are of interest.
 
