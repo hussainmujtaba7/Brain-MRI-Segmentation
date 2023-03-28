@@ -10,9 +10,9 @@ The Jupyter notebook for all the architectures are available in this repository,
 
 Here is a comparative chart for results obtained on test set when trained for 50 epochs
 
-![My Image](images/Screenshot 2023-03-28 at 4.42.19 PM.png)
+![My Image](images/comparative_results.png)
 
 Now when we extend the training to 100 epochs we can see the results improving. We did for for only two architectures due to computational requirments, anyone is encouraged to try for other architectures too.
 
-![My Image](images/my-image.jpg)
+![My Image](images/one_hundred_ep.png)
 
