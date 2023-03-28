@@ -8,3 +8,11 @@ Our experiments involved training and evaluating several popular deep learning a
 
 The Jupyter notebook for all the architectures are available in this repository, along with the results obtained from our experiments.You can find more information regarding the project on the presentation available in this repo.
 
+Here is a comparative chart for results obtained on test set when trained for 50 epochs
+
+![My Image](images/Screenshot 2023-03-28 at 4.42.19 PM.png)
+
+Now when we extend the training to 100 epochs we can see the results improving. We did for for only two architectures due to computational requirments, anyone is encouraged to try for other architectures too.
+
+![My Image](images/my-image.jpg)
+
