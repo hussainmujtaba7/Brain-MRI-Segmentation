@@ -12,7 +12,7 @@ Here is a comparative chart for results obtained on test set when trained for 50
 
 ![My Image](images/comparative_results.png)
 
-Now when we extend the training to 100 epochs we can see the results improving. We did for for only two architectures due to computational requirments, anyone is encouraged to try for other architectures too.
+Now when we extend the training to 100 epochs we can see the results improving. We did for for only two architectures due to computational restraints, anyone is encouraged to try for other architectures too.
 
 ![My Image](images/one_hundred_ep.png)
 
